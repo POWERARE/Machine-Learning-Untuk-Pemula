@@ -8,6 +8,9 @@
 Machine Learning Untuk Pemula, merupakan repository yang akan membahas mengenai machine learning pada tingkatan pemula dimulai dari perkenalan apa itu machine learning, workflownya hingga penerapan model yang sudah dipelajari nantinya.
 
 
+# 
+<p align="center">Jangan lupa diberi star ya, karena setiap star yang diberikan akan membantu saya dalam mengembangkan repository ini lebih lanjut. Terimakasih</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/POWERARE/Machine-Learning-Untuk-Pemula.svg?style=for-the-badge
