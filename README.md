@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 # Machine Learning Untuk Pemula
 Machine Learning Untuk Pemula, merupakan repository yang akan membahas mengenai machine learning pada tingkatan pemula dimulai dari perkenalan apa itu machine learning, workflownya hingga penerapan model yang sudah dipelajari nantinya.
@@ -22,5 +22,4 @@ Machine Learning Untuk Pemula, merupakan repository yang akan membahas mengenai 
 [issues-shield]: https://img.shields.io/github/issues/POWERARE/Machine-Learning-Untuk-Pemula.svg?style=for-the-badge
 [issues-url]: https://github.com/POWERARE/Machine-Learning-Untuk-Pemula/issues
 [license-shield]: https://img.shields.io/github/license/POWERARE/Machine-Learning-Untuk-Pemula.svg?style=for-the-badge
-[license-url]: https://github.com/POWERARE/Machine-Learning-Untuk-Pemula/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
